@@ -1,7 +1,9 @@
 mjs
 ===
 
-Minimal "Good Parts" JavaScript on the Rubinius VM
+Minimal "Good Parts" JavaScript on the Rubinius VM.
+
+Interested?  Please become a watcher!
 
 Motivation
 ----------
@@ -10,6 +12,6 @@ Motivation
 
 Douglas Crockford, _The Good Parts_ (Chapter 10)
 
-This is a Minimal JavaScript (mjs), meant to run on the Rubinius VM.
+In that spirit, this is Minimal JavaScript (mjs) meant to run on the Rubinius VM.
 
-The goal is that if you stick to the "Good Parts" of JavaScript, you can run on Rubinius and elsewhere.  Also, it's mean to be a simple, easily understood (yet powerful) language implementation on the Rubinius VM.
+The goal is that if you stick to the "Good Parts" of JavaScript, you can run on Rubinius and elsewhere.  Also, it's meant to be a simple, easily understood (yet powerful) language implementation on the Rubinius VM.
