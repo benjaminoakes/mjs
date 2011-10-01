@@ -19,4 +19,5 @@ The goal is that if you stick to the "Good Parts" of JavaScript, you can run on 
 Related
 -------
 
-* [capuchin](https://github.com/matthewd/capuchin): Related, but made for a different purpose?  Maybe able to co-op.  
+* [capuchin](https://github.com/matthewd/capuchin): JavaScript, but made for a different purpose?  Maybe able to co-op.
+* [poison](https://github.com/brixen/poison): An interpretation of Potion on Rubinius VM.  [Slides](http://www.slideshare.net/brixen/poisoning-rubinius-the-why-and-how)
