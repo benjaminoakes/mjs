@@ -20,4 +20,5 @@ Related
 -------
 
 * [capuchin](https://github.com/matthewd/capuchin): JavaScript, but made for a different purpose?  Maybe able to co-op.
-* [poison](https://github.com/brixen/poison): An interpretation of Potion on Rubinius VM.  [Slides](http://www.slideshare.net/brixen/poisoning-rubinius-the-why-and-how)
+* [poison](https://github.com/brixen/poison): An interpretation of Potion on the Rubinius VM.  [Slides](http://www.slideshare.net/brixen/poisoning-rubinius-the-why-and-how)
+* [fancy](https://github.com/bakkdoor/fancy): Ruby influenced language on the Rubinius VM 
